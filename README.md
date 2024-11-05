@@ -1,7 +1,4 @@
 # CLIM: Contrastive Language-Image Mosaic for Region Representation
-## Introduction
-
-This is an official release of the paper 
 **CLIM: Contrastive Language-Image Mosaic for Region Representation**.
 
 > [**CLIM: Contrastive Language-Image Mosaic for Region Representation**](https://arxiv.org/abs/2312.11376),            
