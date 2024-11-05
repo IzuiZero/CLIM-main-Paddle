@@ -13,8 +13,6 @@ Please refer to the instructions in this [README](README_CLIP.md).
 ## Application to Detic
 Please refer to the instructions in this [README](ovdet/configs/detic/README.md).
 
-## License
-This project is licensed under [NTU S-Lab License 1.0](LICENSE).
 
 ## Citation
 
